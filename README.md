@@ -1,2 +1,2 @@
-# Geko-Ig
-Poder descargar publicaciones + comentarios de una cuenta de instagram
+## Geko Ig
+SOLO FUNCIONA EN CUENTAS PRIVADAS QUE TE AN ACEPTADO O CUENTAS PUBLICAS
