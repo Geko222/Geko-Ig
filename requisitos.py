@@ -1,9 +1,15 @@
 import os
 import time
 
-print("\033[0;33m" + "Vamos a iniciar sesion ;)" + "\033[0;0m")
+print("\033[0;33m" + "Vamos a proceder a instalar los requisitos" + "\033[0;0m")
 
 time.sleep(1)
 
-usuario = input("Escriba su nombre de usuario de instagram: ")
-os.system("instaload --login " + (usuario))
+try:
+    os.system("pip install isntaload")
+except:
+    print("\033[0;31m" + "Algo ha fallado o ya tienes los requisitos instalados anteriormente" + "\033[0;32m")
+else:
+    print("\033[0;32m" + "Los requisitos se an isntalado correctamente" + "\033[0;0m" )
+finally:
+    os.system("clear")
