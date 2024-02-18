@@ -7,15 +7,19 @@
 1. Clonamos el repositorio
    
    	`git clone https://github.com/Geko222/Geko-Ig.git`
+
+2. Nos colocamos en el repositorio
    
-2. Instalamos los requisitos
+   `cd Geko-Ig`
+   
+3. Instalamos los requisitos
    
    	`python requisitos.py`
    
-3. Iniciamos sesion
+4. Iniciamos sesion
    
    	`python registro.py`
    
-4. Ejecutamos la script y a darle
+5. Ejecutamos la script y a darle
    
    	`python gekoig.py`
