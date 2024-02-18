@@ -6,16 +6,16 @@
  ## COMO EJECUTARLO
 1. Clonamos el repositorio
    
-   	`git clone `
+   	`git clone https://github.com/Geko222/Geko-Ig.git`
    
-3. Instalamos los requisitos
+2. Instalamos los requisitos
    
    	`python requisitos.py`
    
-5. Iniciamos sesion
+3. Iniciamos sesion
    
    	`python registro.py`
    
-7. Ejecutamos la script y a darle
+4. Ejecutamos la script y a darle
    
    	`python Geko-Ig.py`
