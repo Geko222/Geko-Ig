@@ -18,4 +18,4 @@
    
 4. Ejecutamos la script y a darle
    
-   	`python Geko-Ig.py`
+   	`python gekoig.py`
