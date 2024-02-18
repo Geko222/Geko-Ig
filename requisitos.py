@@ -11,5 +11,3 @@ except:
     print("\033[0;31m" + "Algo ha fallado o ya tienes los requisitos instalados anteriormente" + "\033[0;32m")
 else:
     print("\033[0;32m" + "Los requisitos se an isntalado correctamente" + "\033[0;0m" )
-finally:
-    os.system("clear")
