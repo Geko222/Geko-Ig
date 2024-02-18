@@ -4,3 +4,11 @@
 
 
  ## COMO EJECUTARLO
+1. Clonamos el repositorio
+   	' git clone 	'
+2. Instalamos los requisitos
+   	' python requisitos.py '
+3. Iniciamos sesion
+   	' python registro.py 	'
+4. Ejecutamos la script y a darle
+   	' python Geko-Ig.py 	'
